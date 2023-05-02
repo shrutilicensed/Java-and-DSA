@@ -2,9 +2,10 @@ package LinkedListQuestions;
 import java.util.*;
 
 public class initialiseLL {
+  Node head;
   public static void main(String[] args) {
 
-    Node head;
+    //  Node head;
     initialiseLL LL= new initialiseLL();
     Scanner scan = new Scanner(System.in);
 
